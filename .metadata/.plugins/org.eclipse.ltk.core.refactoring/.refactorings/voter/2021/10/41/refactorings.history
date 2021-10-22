@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Voter.java&apos; to &apos;VoterApp/src/com.voterapp.service&apos;&#x0D;&#x0A;- Original project: &apos;voter&apos;&#x0D;&#x0A;- Destination element: &apos;VoterApp/src/com.voterapp.service&apos;&#x0D;&#x0A;- Original element: &apos;Voter.java&apos;" description="Copy file" destination="=VoterApp/src&lt;com.voterapp.service" element1="voter/service/Voter.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1633422599559" units="0" version="1.0"/>
+</session>

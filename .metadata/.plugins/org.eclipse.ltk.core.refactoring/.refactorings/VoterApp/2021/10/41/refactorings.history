@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.voterapp.main.Voter.java&apos; to &apos;VoterMain.java&apos;&#x0D;&#x0A;- Original project: &apos;VoterApp&apos;&#x0D;&#x0A;- Original element: &apos;com.voterapp.main.Voter.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.voterapp.main.VoterMain.java&apos;" description="Rename compilation unit &apos;Voter.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.voterapp.main{Voter.java" name="VoterMain.java" references="false" stamp="1633422593904" version="1.0"/>
+</session>
